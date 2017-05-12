@@ -1,5 +1,8 @@
 # trac-alpine
 
+[![Docker Stars](https://img.shields.io/docker/stars/mastermindg/trac-alpine.svg)][hub]
+[![Docker Pulls](https://img.shields.io/docker/pulls/mastermindg/trac-alpine.svg)][hub]
+
 Trac running on Docker
 
 I needed a really small working Trac so I made one.
