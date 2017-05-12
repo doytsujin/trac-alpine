@@ -1,7 +1,7 @@
 # trac-alpine
 
-[![Docker Stars](https://img.shields.io/docker/stars/mastermindg/trac-alpine.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/mastermindg/trac-alpine.svg)][hub]
+![Docker Stars](https://img.shields.io/docker/stars/mastermindg/trac-alpine.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mastermindg/trac-alpine.svg)
 
 Trac running on Docker
 
